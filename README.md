@@ -10,6 +10,7 @@ Ce projet personnel a pour but de reproduire le jeu de la vie (conway's game en 
 2. Composition
 
 Le projet est constitué de plusieur type de fichier en .py :
+
      - Les fichiers GUI :
             ° ayant pour but de crér l'interface graphique 
      - Le(s) fichiers de jeu :
